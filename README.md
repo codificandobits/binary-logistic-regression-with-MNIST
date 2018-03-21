@@ -8,4 +8,4 @@ First, the user selects two digits for classification. Then, a simple logistic b
 Accuracy on test dataset is close to 100%, regardless of the set of digits selected by the user.
 
 ## Dependencies
-numpy==1.14.0, matplotlib==2.0.0, Keras==2.1.3
+numpy==1.14.0, matplotlib==2.0.0, Keras==2.1.3, TensorFlow==1.4.0
